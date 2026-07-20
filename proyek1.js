@@ -1,6 +1,6 @@
 const nama = "Budi";
 const umur = 20;
-const hargaBarang = [12000, 15000, 8000, 5000];
+const hargaBarang = [12000, 15000, 8000, 7000];
 
 let total = 0;
 
