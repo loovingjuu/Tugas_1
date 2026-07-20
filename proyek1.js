@@ -17,7 +17,7 @@ if (total > 30000) {
     status = "Belanja lagi agar mendapat diskon.";
 }
 
-console.log("Nama :", nama);
-console.log("Umur :", umur);
-console.log("Total Belanja :", total);
-console.log("Status :", status);
+console.log(`Nama: ${nama}`);
+console.log(`Umur: ${umur}`);
+console.log(`Total Belanja: ${total}`);
+console.log(`Status: ${status}`);
