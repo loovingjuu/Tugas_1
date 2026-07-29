@@ -4,8 +4,8 @@ const hargaBarang = [12000, 15000, 8000, 5000];
 
 let total = 0;
 
-for (let i = 0; i < hargaBarang.length; i++) {
-    total += hargaBarang[i];
+for (let b = 0; b < hargaBarang.length; b++) {
+    total += hargaBarang[b];
 }
 
 let status;
